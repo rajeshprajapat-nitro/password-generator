@@ -1,1 +1,3 @@
-# password-generator
+# password-generator..
+this is a password generator GUI(Graphical user interface)
+using python tkinter...
